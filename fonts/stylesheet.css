@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Red Ring';
+    src: url('RedRing-Bold.eot');
+    src: local('Red Ring Bold'), local('RedRing-Bold'),
+        url('RedRing-Bold.eot?#iefix') format('embedded-opentype'),
+        url('RedRing-Bold.woff2') format('woff2'),
+        url('RedRing-Bold.woff') format('woff'),
+        url('RedRing-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Red Ring';
+    src: url('RedRing-Light.eot');
+    src: local('Red Ring Light'), local('RedRing-Light'),
+        url('RedRing-Light.eot?#iefix') format('embedded-opentype'),
+        url('RedRing-Light.woff2') format('woff2'),
+        url('RedRing-Light.woff') format('woff'),
+        url('RedRing-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Red Ring';
+    src: url('RedRing-Medium.eot');
+    src: local('Red Ring Medium'), local('RedRing-Medium'),
+        url('RedRing-Medium.eot?#iefix') format('embedded-opentype'),
+        url('RedRing-Medium.woff2') format('woff2'),
+        url('RedRing-Medium.woff') format('woff'),
+        url('RedRing-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Red Ring';
+    src: url('RedRing-Regular.eot');
+    src: local('Red Ring Regular'), local('RedRing-Regular'),
+        url('RedRing-Regular.eot?#iefix') format('embedded-opentype'),
+        url('RedRing-Regular.woff2') format('woff2'),
+        url('RedRing-Regular.woff') format('woff'),
+        url('RedRing-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Red Ring';
+    src: url('RedRing-Black.eot');
+    src: local('Red Ring Black'), local('RedRing-Black'),
+        url('RedRing-Black.eot?#iefix') format('embedded-opentype'),
+        url('RedRing-Black.woff2') format('woff2'),
+        url('RedRing-Black.woff') format('woff'),
+        url('RedRing-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
