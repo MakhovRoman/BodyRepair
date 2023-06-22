@@ -13,3 +13,7 @@
   <li>Поправить момент появления блоков при скролле</li>
   <li>Поправить адаптив</li>
 </ul>
+
+<h3>Stack</h3>
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
